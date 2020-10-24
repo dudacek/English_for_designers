@@ -8,6 +8,9 @@ Lover of life and good mood, golfer, traveler, good companion, workaholic, and a
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 ```diff
 ! Case study coming soon
 ```

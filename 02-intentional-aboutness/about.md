@@ -4,4 +4,4 @@ Lover of life and good mood, golfer, traveler, good companion, workaholic, and a
 <br />
 <br />
 <br />
-[Portfolio](https://dudacek.cz) I [Instragram](https://www.instagram.com/dudacek.jakub/) I [Facebook](https://www.facebook.com/jakub.dudacek.10)
+<sub>[Portfolio](https://dudacek.cz) I [Instragram](https://www.instagram.com/dudacek.jakub/) I [Facebook](https://www.facebook.com/jakub.dudacek.10)<sub>

@@ -1,7 +1,7 @@
 ## Character & Description
 
  ![The image uses optical illusions and shows the letter J in different positions.](letter_j_dudacek.gif)
-###### Jakub Dudacek, GIF animation in Adobe Photoshop. ######
+###### *J*, Jakub Dudacek, GIF animation in Adobe Photoshop. ######
 
  - - -
 

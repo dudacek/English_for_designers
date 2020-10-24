@@ -9,5 +9,5 @@ Lover of life and good mood, golfer, traveler, good companion, workaholic, and a
 <br />
 <br />
 ```diff
-! Case study coming soon!
+! Case study coming soon
 ```

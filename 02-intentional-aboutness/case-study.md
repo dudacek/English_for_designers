@@ -3,7 +3,7 @@
 ```
 |   | Brief |
 | --------  | -------- |
-| Some long data that <br /> spans multiple lines Some long data that <br /> spans multiple lines Some long data that <br /> spans multiple lines | <img src="./img/card.jpg" alt="card" width="400"/> |
+| Some long data that <br /> spans multiple lines Some long data that <br /> spans multiple lines Some long data that <br /> spans multiple lines | <img src="./img/brief.jpg" alt="card" width="400"/> |
 
 
 ## TV spot ##

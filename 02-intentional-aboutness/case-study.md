@@ -13,9 +13,23 @@
 [![interview](./img/inter_2.jpg)](https://www.youtube.com/watch?v=5RJ_7pBZ2uE&t "interview")
 
 
- ![Work hard.](./img/card.jpg)
+![Work hard.](./img/TV_rollup.jpg)
  
-<img src="./img/card.jpg" alt="card" width="400"/> <img src="./img/card.jpg" alt="card" width="400"/>
+<img src="./img/TV_rollup.jpg" alt="TV_rollup" width="400"/>
+<img src="./img/banner_chair.jpg" alt="banner_chair" width="400"/>
+<img src="./img/banner_wall.jpg" alt="banner_wall" width="400"/>
+<img src="./img/chodov.jpg" alt="chodov" width="400"/>
+<img src="./img/city_clv.jpg" alt="city_clv" width="400"/>
+<img src="./img/jan.jpg" alt="jan" width="400"/>
+<img src="./img/me.jpg" alt="me" width="400"/>
+<img src="./img/metro_in.jpg" alt="metro_in" width="400"/>
+<img src="./img/metro_way.jpg" alt="metro_way" width="400"/>
+<img src="./img/pin.png" alt="pin" width="400"/>
+<img src="./img/rollup.jpg" alt="rollup" width="400"/>
+<img src="./img/start_idea.png" alt="start_idea" width="400"/>
+<img src="./img/stop_way.jpg" alt="stop_way" width="400"/>
+<img src="./img/tyna.jpg" alt="tyna" width="400"/>
+<img src="./img/web_QR.jpg" alt="web_QR" width="400"/>
 
 
 

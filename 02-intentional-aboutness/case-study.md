@@ -12,8 +12,6 @@
 ## Interview ##
 [![interview](./img/inter_2.jpg)](https://www.youtube.com/watch?v=5RJ_7pBZ2uE&t "interview")
 
-
-![Work hard.](./img/TV_rollup.jpg)
  
 <img src="./img/TV_rollup.jpg" alt="TV_rollup" width="400"/>
 <img src="./img/banner_chair.jpg" alt="banner_chair" width="400"/>
@@ -31,5 +29,5 @@
 <img src="./img/tyna.jpg" alt="tyna" width="400"/>
 <img src="./img/web_QR.jpg" alt="web_QR" width="400"/>
 
-
+![Work hard.](./img/TV_rollup.jpg)
 

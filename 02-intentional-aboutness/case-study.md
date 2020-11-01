@@ -14,8 +14,8 @@
 
  
 <img src="./img/TV_rollup.jpg" alt="TV_rollup" width="400"/>
-<img src="./img/banner_chair.jpg" alt="banner_chair" width="400"/>
-<img src="./img/banner_wall.jpg" alt="banner_wall" width="400"/>
+<img src="./img/banner_chair.jpg" alt="banner_chair" width="1366"/>
+<img src="./img/banner_wall.jpg" alt="banner_wall" width="1366"/>
 <img src="./img/chodov.jpg" alt="chodov" width="400"/>
 <img src="./img/city_clv.jpg" alt="city_clv" width="400"/>
 <img src="./img/jan.jpg" alt="jan" width="400"/>

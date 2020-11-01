@@ -12,7 +12,6 @@
 ## Interview ##
 [![interview](./img/inter_2.jpg)](https://www.youtube.com/watch?v=5RJ_7pBZ2uE&t "interview")
 
- 
 <img src="./img/TV_rollup.jpg" alt="TV_rollup" width="400"/>
 <img src="./img/banner_chair.jpg" alt="banner_chair" width="1366"/>
 <img src="./img/banner_wall.jpg" alt="banner_wall" width="1366"/>

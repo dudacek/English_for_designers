@@ -10,4 +10,5 @@
 | --------  | -------- |
 | <img src="./img/card.jpg" alt="card" width="400"/> | Some long data that <br /> spans multiple lines Some long data that <br /> spans multiple lines Some long data that <br /> spans multiple lines |
 
-[![NJU_TV_spot](http://img.youtube.com/vi/-Zy0uLBJQ4w/0.jpg)](http://www.youtube.com/watch?v=-Zy0uLBJQ4w "TV_spot")
+[![NJU_TV_spot](./img/youtubespot_2.jpg)](http://www.youtube.com/watch?v=-Zy0uLBJQ4w "TV_spot")
+[![interview](./img/inter_2.jpg)](https://www.youtube.com/watch?v=5RJ_7pBZ2uE&t "interview")

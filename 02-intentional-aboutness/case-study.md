@@ -62,10 +62,8 @@ Not only did we met the client’s expectations, but we also created something m
 <img src="./img/tyna.jpg" alt="tyna" width="300"/><img src="./img/jan.jpg" alt="jan" width="300"/><img src="./img/me.jpg" alt="me" width="300"/>
  <br />
  <br />
-  <img src="./img/line.svg" alt="line" width="500"/>
-   <br />
    
- ## Campaign Photo Collection
+ # Campaign Photo Collection
   <br />
  <img src="./img/city_clv.jpg" alt="city_clv" width="1000"/>
  <img src="./img/metro_way.jpg" alt="metro_way" width="1000"/>
@@ -80,7 +78,8 @@ Campaign: Týna Janoušová, Jan Rákosník & Jakub Dudáček
 Client: Nadace jedličkova ústavu
  ```
  <br />
- - [Go up](#assignment)
+ 
+###### [Go up](#assignment)
  <img src="./img/line.svg" alt="line" width="500"/>
 
 

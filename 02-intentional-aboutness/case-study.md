@@ -12,6 +12,7 @@ Zhruba před rokem naši školu oslovil klient Nadace jedličkova ústavu <br />
 
  <sub>[Nadace jedličkova ústavu](https://nadaceju.cz) I [Instragram](https://www.instagram.com/nadaceju/) I [Facebook](https://www.facebook.com/nadaceju)<sub>
 <br />
+<br />
 
 ## 2.	Rešerše
 První fází našich příprav bylo seznámení se s prostředím nadace zabývající postižením i světem s tím spojeným. Velkým přínosem byla námi organizovaná společná setká s vedením nadace, a hlavně s jejich klienty. Navázáním vzájemné důvěry a vyslechnutí příběhů jsme získali cenné informace pro přípravu takové kampaně, která naplní veškerá očekávání klienta. 

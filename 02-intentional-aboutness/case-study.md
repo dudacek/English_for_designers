@@ -4,11 +4,9 @@ Zhruba před rokem naši školu oslovil klient Nadace jedličkova ústavu <br />
 <img src="./img/brief.jpg" alt="card" width="600"/> `brief`
 
 ### Klient ###
-<i >
-Nadace Jedličkova ústavu už od roku 1990 podporuje děti a mladé lidi
-s tělesným či kombinovaným postižením. Hlavní skupinou příjemců finančních prostředků jsou studenti a organizace kolem Jedličkova ústavu a škol v Praze, pomáháme však po celé České
-republice.
-<i />
+
+*Nadace Jedličkova ústavu už od roku 1990 podporuje děti a mladé lidi
+s tělesným či kombinovaným postižením. Hlavní skupinou příjemců finančních prostředků jsou studenti a organizace kolem Jedličkova ústavu a škol v Praze, pomáháme však po celé České republice.*
 
 ## TV spot ##
 [![NJU_TV_spot](./img/youtubespot_2.jpg)](http://www.youtube.com/watch?v=-Zy0uLBJQ4w "TV_spot")

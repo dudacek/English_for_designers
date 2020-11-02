@@ -1,6 +1,4 @@
  <img src="./img/line.svg" alt="line" width="500"/> 
-<br /> 
-
 # The Jedlička Foundation. Campaign & Visual Style.
 <br /> 
 

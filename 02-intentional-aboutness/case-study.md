@@ -66,14 +66,10 @@ Nejen že jsme splnili klientovo zadání, ale vytvořili jsme něco mnohem siln
 
 <img src="./img/chodov.jpg" alt="chodov" width="400"/>
 <img src="./img/city_clv.jpg" alt="city_clv" width="400"/>
-
-<img src="./img/me.jpg" alt="me" width="400"/>
 <img src="./img/metro_in.jpg" alt="metro_in" width="400"/>
 <img src="./img/metro_way.jpg" alt="metro_way" width="400"/>
 <img src="./img/rollup.jpg" alt="rollup" width="400"/>
-<img src="./img/start_idea.png" alt="start_idea" width="400"/>
 <img src="./img/stop_way.jpg" alt="stop_way" width="400"/>
-
 <img src="./img/web_QR.jpg" alt="web_QR" width="400"/>
 
 

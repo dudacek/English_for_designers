@@ -4,7 +4,7 @@
 <br /> 
 <br /> 
 
-- [Hemingway Editor](#assignment)
+- [Assignment](#assignment)
 
 ## Assignment
 About a year ago our school was asked by the Jedlička Foundation to create a marketing campaign for their 30th anniversary. <br /> To be exact a visual style with an idea for a tv spot.
@@ -19,7 +19,7 @@ About a year ago our school was asked by the Jedlička Foundation to create a ma
 <br />
 <br />
 
-## 2.	Research
+## Research
 The first part of our preparation was to get to know the environment of the foundation supporting the handicapped. A big help was meeting with the manageress of the foundation and mainly their clients. By building mutual trust with the clients and hearing their stories we gathered very valuable information for preparing such a campaign to fulfill all the client's expectations. 
 
 <img src="./img/start_idea.png" alt="start_idea" width="800"/>  `first ideas`
@@ -36,7 +36,7 @@ The first part of our preparation was to get to know the environment of the foun
 -	People without a handicap can be afraid to communicate with handicapped people.
 <br />
 
-## 3. A campaign called: Green Peg
+## A campaign called: Green Peg
 Green peg became a symbol of not only the campaign but also the whole foundation. A peg inspired by a real story of a current foundation’s client, Jakub. You can watch our interview with him in which you can find all the answers about the story and him.
 
 >#### Play Interview
@@ -51,7 +51,7 @@ Let's all together concerning our abilities, let’s help build opportunities fo
 <br />
 <br />
 
-## 4.	Summary & Impact
+## Summary & Impact
 Not only did we met the client’s expectations, but we also created something much stronger at the same time. Something that can help to keep the world of handicapped and not handicapped as one and connected. We gave the client a symbol in the shape of a green peg which will be representing the foundation for years to come. The client can in the next years build on a product that has a history but most importantly a story. We created a day of the peg and one day most of the people in the Czech Republic will know this day. Since 4.11 you can see our visual style in its’ full beauty and a tv spot to go with it. From now on not even, you have to be afraid to make the first step by buying a green peg.
 
 >####  TV spot

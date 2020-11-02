@@ -1,5 +1,3 @@
-![line](./img/line.svg)
-
 ## 1. Assignment
 About a year ago our school was asked by the Jedlička Foundation to create a marketing campaign for their 30th anniversary. To be exact a visual style with an idea for a tv spot.
 
@@ -68,7 +66,7 @@ Not only did we met the client’s expectations, but we also created something m
 <img src="./img/chodov.jpg" alt="chodov" width="1000"/>
 <br />
 <br />
-
+![line](./img/line.svg)
 
 
 

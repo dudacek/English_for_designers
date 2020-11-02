@@ -12,7 +12,6 @@ Zhruba před rokem naši školu oslovil klient Nadace jedličkova ústavu <br />
 ## 2.	Rešerše
 První fází našich příprav bylo seznámení se s prostředím nadace zabývající postižením i světem s tím spojeným. Velkým přínosem byla námi organizovaná společná setká s vedením nadace, a hlavně s jejich klienty. Navázáním vzájemné důvěry a vyslechnutí příběhů jsme získali cenné informace pro přípravu takové kampaně, která naplní veškerá očekávání klienta. 
 
-
 #### Body vzešlé z rešerší:
 
 
@@ -23,6 +22,7 @@ První fází našich příprav bylo seznámení se s prostředím nadace zabýv
         - Chceme být veselí.
 -	Chceme využívat reálné příběhy postižených lidí.
 -	Chceme pochopit potřeby klienta i postižených lidí
+<br />
 
 ## 3. Kampaň s názvem zelený kolíček
 Proč zelený kolíček?

@@ -1,34 +1,34 @@
 
 
-## 1. zadání
-Zhruba před rokem naši školu oslovil klient Nadace jedličkova ústavu <br />s žádostí o vytvoření kampaně pro 30 výročí. Přesněji vizuální styl s námětem <br /> krátkého video spotu do TV.
+## 1. Assignment
+About a year ago our school was asked by the Jedlička Foundation to create a marketing campaign for their 30th anniversary. To be exact a visual style with an idea for a tv spot.
 
 <img src="./img/brief.jpg" alt="card" width="600"/> `brief`
 
 >## *Klient
 
->*Nadace Jedličkova ústavu už od roku 1990 podporuje děti a mladé lidi
->s tělesným či kombinovaným postižením. Hlavní skupinou příjemců finančních prostředků jsou studenti a organizace kolem Jedličkova ústavu a škol v Praze, pomáháme >však po celé České republice.
+>*The Jedlička Foundation supports children and youth with a physical and combined disability since 1990. The main receivers of the finance are students of the Jedlička Institute and Schools in Prague. Other than that the foundation helps all over the Czech Republic. 
 
  <sub>[Nadace jedličkova ústavu](https://nadaceju.cz) I [Instragram](https://www.instagram.com/nadaceju/) I [Facebook](https://www.facebook.com/nadaceju)<sub>
 <br />
 <br />
 
-## 2.	Rešerše
-První fází našich příprav bylo seznámení se s prostředím nadace zabývající postižením i světem s tím spojeným. Velkým přínosem byla námi organizovaná společná setká s vedením nadace, a hlavně s jejich klienty. Navázáním vzájemné důvěry a vyslechnutí příběhů jsme získali cenné informace pro přípravu takové kampaně, která naplní veškerá očekávání klienta. 
+## 2.	Research
+The first part of our preparation was to get to know the environment of the foundation supporting the handicapped. A big help was meeting with the manageress of the foundation and mainly their clients. By building mutual trust with the clients and hearing their stories we gathered very valuable information for preparing such a campaign to fulfill all the client's expectations. 
 
 <img src="./img/start_idea.png" alt="start_idea" width="800"/>  `first ideas`
 
 #### Body vzešlé z rešerší:
 
-
-- Klient nekomunikuje skrze reálné osoby, ale využívá animaci.
-- Klient komunikuje v předchozích kampaních smutně až soucitně.
-- Chceme vytvořit příběh.
-- Chceme používat reálných osob a klientů nadace.
-- Chceme být veselí.
--	Chceme využívat reálné příběhy postižených lidí.
--	Chceme pochopit potřeby klienta i postižených lidí
+Points we gathered during our research
+-	The client doesn't use real people but rather animation.
+-	The client communicates with sadness and compassion in their past campaigns. 
+-	We want to create a story.
+-	We want to use real people and clients of the foundation.
+-	We want to be happy.
+-	We want to use real stories of handicapped people.
+-	We want to understand the needs of the client and handicapped people.
+-	People without a handicap can be afraid to communicate with handicapped people.
 <br />
 
 ## 3. Kampaň s názvem zelený kolíček

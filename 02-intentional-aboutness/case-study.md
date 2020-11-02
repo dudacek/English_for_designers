@@ -5,9 +5,9 @@ About a year ago our school was asked by the Jedlička Foundation to create a ma
 
 <img src="./img/brief.jpg" alt="card" width="600"/> `brief`
 
->## *Client
+>## *Client*
 
->*The Jedlička Foundation supports children and youth with a physical and combined disability since 1990. The main receivers of the finance are students of the Jedlička Institute and Schools in Prague. Other than that the foundation helps all over the Czech Republic. 
+>*The Jedlička Foundation supports children and youth with a physical and combined disability since 1990. The main receivers of the finance are students of the Jedlička Institute and Schools in Prague. Other than that the foundation helps all over the Czech Republic.*
 
  <sub>[Nadace jedličkova ústavu](https://nadaceju.cz) I [Instragram](https://www.instagram.com/nadaceju/) I [Facebook](https://www.facebook.com/nadaceju)<sub>
 <br />
@@ -18,9 +18,8 @@ The first part of our preparation was to get to know the environment of the foun
 
 <img src="./img/start_idea.png" alt="start_idea" width="800"/>  `first ideas`
 
-#### Body vzešlé z rešerší:
+#### Points we gathered during our research:
 
-Points we gathered during our research
 -	The client doesn't use real people but rather animation.
 -	The client communicates with sadness and compassion in their past campaigns. 
 -	We want to create a story.
@@ -54,8 +53,8 @@ Not only did we met the client’s expectations, but we also created something m
 <br />
 
 
-## *Thanks
-*My warm thanks for flawless cooperation goes to my two classmates Týna Janoušová and Jan Rákosník. They were an integral part of the project and thanks to them it was one hell of a ride.
+## *Thanks*
+*My warm thanks for flawless cooperation goes to my two classmates Týna Janoušová and Jan Rákosník. They were an integral part of the project and thanks to them it was one hell of a ride.*
 
 <img src="./img/tyna.jpg" alt="tyna" width="300"/><img src="./img/jan.jpg" alt="jan" width="300"/><img src="./img/me.jpg" alt="me" width="300"/>
 

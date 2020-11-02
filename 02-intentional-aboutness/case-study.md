@@ -77,7 +77,7 @@ Design: Jakub Dudáček & Jan Rákosník
 Campaign: Týna Janoušová, Jakub Dudáček & Jan Rákosník
 Client: Nadace jedličkova ústavu
  ```
- <br />
+ <br /> 
  <img src="./img/line.svg" alt="line" width="500"/>
 
 

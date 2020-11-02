@@ -1,3 +1,5 @@
+
+
 ## 1. zadání
 Zhruba před rokem naši školu oslovil klient Nadace jedličkova ústavu <br />s žádostí o vytvoření kampaně pro 30 výročí. Přesněji vizuální styl s námětem <br /> krátkého video spotu do TV.
 
@@ -31,10 +33,20 @@ Zelený kolíček se stal symbolem nejen kampaně, ale celé nadace. Kolíček j
 >#### Play Interview
 [![interview](./img/inter_2.jpg)](https://www.youtube.com/watch?v=5RJ_7pBZ2uE&t "interview")
 
+Jak už bylo zmíněno. Zdravý lidé mají potíže s konfrontací s postiženými lidmi.
+A právě ti, ke kterým je směřována naše podpora, jsou naší největší motivací k práci. Proto jsme se rozhodli v nové kampani Zelený kolíček upozornit na to, že společnost nemusí být rozdělená na lidi zdravé a na lidi s postižením. Nikdo se nemusí být udělat první krok. Naše kampaň zelený kolíček podporuje motto Kolíček nás spojuje a nikdo se nemusí být udělat první krok k tomu, aby pomáhal.
 
+*Pojďme vzájemně respektovat naše schopnosti, pojďme pomáhat budovat nové možnosti a pojďme být jednou společností.*
 
-## TV spot ##
-[![NJU_TV_spot](./img/youtubespot_2.jpg)](http://www.youtube.com/watch?v=-Zy0uLBJQ4w "TV_spot")
+```diff
+#zelenykolicek
+```
+
+## 4.	zakončení
+Nejen že jsme splnili klientovo zadání, ale vytvořili jsme něco mnohem silnějšího. Něco, co dokáže opravdu spojovat svět zdravých a svět postižených. Dali jsme klientovi symbol v podobě zeleného kolíčku, který bude v dalších letech reprezentovat Nadaci jedličkova ústavu. Klient může své další roky stavět na produktu, který má historii a příběh. Vytvořili jsme den zeleného kolíčku. A jednoho dne bude tento den znát většina obyvatel v České republice. Od 4.11. můžete vidět vizuální styl v plné kráse včetně televizního spotu. Už se ani vy nemusíte bát udělat první krok a pomáhat zakoupením zeleného kolíčku. 
+
+>####  TV spot
+>[![NJU_TV_spot](./img/youtubespot_2.jpg)](http://www.youtube.com/watch?v=-Zy0uLBJQ4w "TV_spot")
 
 
 <img src="./img/TV_rollup.jpg" alt="TV_rollup" width="400"/>

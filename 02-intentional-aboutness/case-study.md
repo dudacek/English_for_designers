@@ -74,7 +74,7 @@ Not only did we met the client’s expectations, but we also created something m
  ```
 Project: Campaign & Visual Style.
 Design: Jakub Dudáček & Jan Rákosník
-Campaign: Týna Janoušová, Jakub Dudáček & Jan Rákosník
+Campaign: Týna Janoušová, Jan Rákosník & Jakub Dudáček
 Client: Nadace jedličkova ústavu
  ```
  <br />

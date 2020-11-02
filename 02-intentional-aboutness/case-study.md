@@ -66,7 +66,7 @@ Not only did we met the client’s expectations, but we also created something m
 <img src="./img/chodov.jpg" alt="chodov" width="1000"/>
 <br />
  <br />
- <img src="./img/line.svg" alt="line"/>
+ <img src="./img/line.svg" alt="line" width="500"/>
 
 
 

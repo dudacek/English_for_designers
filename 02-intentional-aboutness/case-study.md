@@ -15,20 +15,27 @@ První fází našich příprav bylo seznámení se s prostředím nadace zabýv
 
 #### Body vzešlé z rešerší:
 
+
 - Klient nekomunikuje skrze reálné osoby, ale využívá animaci.
-- Klient komunikuje v předchozích kampaních smutně až soucitně.
-- Chceme vytvořit příběh.
-- Chceme používat reálných osob a klientů nadace.
-- Chceme být veselí.
+  - Klient komunikuje v předchozích kampaních smutně až soucitně.
+    - Chceme vytvořit příběh.
+      - Chceme používat reálných osob a klientů nadace.
+        - Chceme být veselí.
 -	Chceme využívat reálné příběhy postižených lidí.
 -	Chceme pochopit potřeby klienta i postižených lidí
+
+## 3. Kampaň s názvem zelený kolíček
+Proč zelený kolíček?
+Zelený kolíček se stal symbolem nejen kampaně, ale celé nadace. Kolíček je inspirovaný skutečným příběhem stávajícího klienta Jakuba. Sami se můžete podívat na náš společný rozhovor, ve kterém naleznete všechny důležité odpovědi.
+
+## Play Interview
+[![interview](./img/inter_2.jpg)](https://www.youtube.com/watch?v=5RJ_7pBZ2uE&t "interview")
+
 
 
 ## TV spot ##
 [![NJU_TV_spot](./img/youtubespot_2.jpg)](http://www.youtube.com/watch?v=-Zy0uLBJQ4w "TV_spot")
 
-## Interview ##
-[![interview](./img/inter_2.jpg)](https://www.youtube.com/watch?v=5RJ_7pBZ2uE&t "interview")
 
 <img src="./img/TV_rollup.jpg" alt="TV_rollup" width="400"/>
 <img src="./img/banner_chair.jpg" alt="banner_chair" width="1366"/>

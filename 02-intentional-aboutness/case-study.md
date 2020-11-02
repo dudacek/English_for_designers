@@ -63,9 +63,9 @@ Not only did we met the client’s expectations, but we also created something m
  # Campaign Photo Collection
   <br />
  <img src="./img/city_clv.jpg" alt="city_clv" width="1000"/>
- <img src="./img/TV_rollup.jpg" alt="TV_rollup" width="500"/><img src="./img/chodov.jpg" alt="chodov" width="500"/>
-<img src="./img/metro_in.jpg" alt="metro_in" width="250"/><img src="./img/metro_way.jpg" alt="metro_way" width="250"/><img src="./img/stop_way.jpg" alt="stop_way" width="500"/>
-<img src="./img/web_QR.jpg" alt="web_QR" width="1000"/>
+ <img src="./img/web_QR.jpg" alt="web_QR" width="1000"/>
+ <img src="./img/TV_rollup.jpg" alt="TV_rollup" width="450"/><img src="./img/chodov.jpg" alt="chodov" width="450"/>
+<img src="./img/metro_in.jpg" alt="metro_in" width="450"/><img src="./img/metro_way.jpg" alt="metro_way" width="450"/>
 
 
 

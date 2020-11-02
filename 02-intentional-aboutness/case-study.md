@@ -36,10 +36,10 @@ Zelený kolíček se stal symbolem nejen kampaně, ale celé nadace. Kolíček j
 Jak už bylo zmíněno. Zdravý lidé mají potíže s konfrontací s postiženými lidmi.
 A právě ti, ke kterým je směřována naše podpora, jsou naší největší motivací k práci. Proto jsme se rozhodli v nové kampani Zelený kolíček upozornit na to, že společnost nemusí být rozdělená na lidi zdravé a na lidi s postižením. Nikdo se nemusí být udělat první krok. Naše kampaň zelený kolíček podporuje motto Kolíček nás spojuje a nikdo se nemusí být udělat první krok k tomu, aby pomáhal.
 
-*Pojďme vzájemně respektovat naše schopnosti, pojďme pomáhat budovat nové možnosti a pojďme být jednou společností.*
+Pojďme vzájemně respektovat naše schopnosti, pojďme pomáhat budovat nové možnosti a pojďme být jednou společností.
 
 ```diff
-#zelenykolicek #koliceknasspojuje 
+#zelenykolicek #koliceknasspojuje
 ```
 
 ## 4.	zakončení
@@ -49,9 +49,8 @@ Nejen že jsme splnili klientovo zadání, ale vytvořili jsme něco mnohem siln
 >[![NJU_TV_spot](./img/youtubespot_2.jpg)](http://www.youtube.com/watch?v=-Zy0uLBJQ4w "TV_spot")
 
 
-```diff
-+ Mé vřelé poděkování za bezvadnou spolupráci bych rád předal svým dvěma spolužákům. Týna Janoušová a Honza Rákosník byli nedílnou součásti celého projektu. A díky nim to byla parádní jízda.
-```
+*Mé vřelé poděkování za bezvadnou spolupráci bych rád předal <br />svým dvěma spolužákům. Týna Janoušová a Honza Rákosník byli nedílnou <br />součásti celého projektu. A díky nim to byla parádní jízda.*
+
 
 <img src="./img/TV_rollup.jpg" alt="TV_rollup" width="400"/>
 <img src="./img/banner_chair.jpg" alt="banner_chair" width="1366"/>

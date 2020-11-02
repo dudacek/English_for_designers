@@ -28,7 +28,7 @@ První fází našich příprav bylo seznámení se s prostředím nadace zabýv
 Proč zelený kolíček?
 Zelený kolíček se stal symbolem nejen kampaně, ale celé nadace. Kolíček je inspirovaný skutečným příběhem stávajícího klienta Jakuba. Sami se můžete podívat na náš společný rozhovor, ve kterém naleznete všechny důležité odpovědi.
 
-## Play Interview
+>#### Play Interview
 [![interview](./img/inter_2.jpg)](https://www.youtube.com/watch?v=5RJ_7pBZ2uE&t "interview")
 
 

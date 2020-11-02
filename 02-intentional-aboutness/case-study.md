@@ -5,7 +5,7 @@ About a year ago our school was asked by the Jedlička Foundation to create a ma
 
 <img src="./img/brief.jpg" alt="card" width="600"/> `brief`
 
->## *Klient
+>## *Client
 
 >*The Jedlička Foundation supports children and youth with a physical and combined disability since 1990. The main receivers of the finance are students of the Jedlička Institute and Schools in Prague. Other than that the foundation helps all over the Czech Republic. 
 
@@ -46,16 +46,16 @@ Let's all together concerning our abilities, let’s help build opportunities fo
 <br />
 <br />
 
-## 4.	zakončení
-Nejen že jsme splnili klientovo zadání, ale vytvořili jsme něco mnohem silnějšího. Něco, co dokáže opravdu spojovat svět zdravých a svět postižených. Dali jsme klientovi symbol v podobě zeleného kolíčku, který bude v dalších letech reprezentovat Nadaci jedličkova ústavu. Klient může své další roky stavět na produktu, který má historii a příběh. Vytvořili jsme den zeleného kolíčku. A jednoho dne bude tento den znát většina obyvatel v České republice. Od 4.11. můžete vidět vizuální styl v plné kráse včetně televizního spotu. Už se ani vy nemusíte bát udělat první krok a pomáhat zakoupením zeleného kolíčku. 
+## 4.	Summary & Impact
+Not only did we met the client’s expectations, but we also created something much stronger at the same time. Something that can help to keep the world of handicapped and not handicapped as one and connected. We gave the client a symbol in the shape of a green peg which will be representing the foundation for years to come. The client can in the next years build on a product that has a history but most importantly a story. We created a day of the peg and one day most of the people in the Czech Republic will know this day. Since 4.11 you can see our visual style in its’ full beauty and a tv spot to go with it. From now on not even, you have to be afraid to make the first step by buying a green peg.
 
 >####  TV spot
 >[![NJU_TV_spot](./img/youtubespot_2.jpg)](http://www.youtube.com/watch?v=-Zy0uLBJQ4w "TV_spot")
 <br />
 
 
-## *Poděkování
-*Mé vřelé poděkování za bezvadnou spolupráci bych rád předal <br />svým dvěma spolužákům. Týna Janoušová a Honza Rákosník byli nedílnou <br />součásti celého projektu. A díky nim to byla parádní jízda.
+## *Thanks
+*My warm thanks for flawless cooperation goes to my two classmates Týna Janoušová and Jan Rákosník. They were an integral part of the project and thanks to them it was one hell of a ride.
 
 <img src="./img/tyna.jpg" alt="tyna" width="300"/><img src="./img/jan.jpg" alt="jan" width="300"/><img src="./img/me.jpg" alt="me" width="300"/>
 

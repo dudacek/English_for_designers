@@ -31,7 +31,7 @@ Proč zelený kolíček?
 Zelený kolíček se stal symbolem nejen kampaně, ale celé nadace. Kolíček je inspirovaný skutečným příběhem stávajícího klienta Jakuba. Sami se můžete podívat na náš společný rozhovor, ve kterém naleznete všechny důležité odpovědi.
 
 >#### Play Interview
-[![interview](./img/inter_2.jpg)](https://www.youtube.com/watch?v=5RJ_7pBZ2uE&t "interview")
+>[![interview](./img/inter_2.jpg)](https://www.youtube.com/watch?v=5RJ_7pBZ2uE&t "interview")
 
 Jak už bylo zmíněno. Zdravý lidé mají potíže s konfrontací s postiženými lidmi.
 A právě ti, ke kterým je směřována naše podpora, jsou naší největší motivací k práci. Proto jsme se rozhodli v nové kampani Zelený kolíček upozornit na to, že společnost nemusí být rozdělená na lidi zdravé a na lidi s postižením. Nikdo se nemusí být udělat první krok. Naše kampaň zelený kolíček podporuje motto Kolíček nás spojuje a nikdo se nemusí být udělat první krok k tomu, aby pomáhal.
@@ -39,7 +39,7 @@ A právě ti, ke kterým je směřována naše podpora, jsou naší největší 
 *Pojďme vzájemně respektovat naše schopnosti, pojďme pomáhat budovat nové možnosti a pojďme být jednou společností.*
 
 ```diff
-#zelenykolicek
+#zelenykolicek #koliceknasspojuje 
 ```
 
 ## 4.	zakončení
@@ -48,6 +48,10 @@ Nejen že jsme splnili klientovo zadání, ale vytvořili jsme něco mnohem siln
 >####  TV spot
 >[![NJU_TV_spot](./img/youtubespot_2.jpg)](http://www.youtube.com/watch?v=-Zy0uLBJQ4w "TV_spot")
 
+
+```diff
++ Mé vřelé poděkování za bezvadnou spolupráci bych rád předal svým dvěma spolužákům. Týna Janoušová a Honza Rákosník byli nedílnou součásti celého projektu. A díky nim to byla parádní jízda.
+```
 
 <img src="./img/TV_rollup.jpg" alt="TV_rollup" width="400"/>
 <img src="./img/banner_chair.jpg" alt="banner_chair" width="1366"/>
@@ -67,10 +71,6 @@ Nejen že jsme splnili klientovo zadání, ale vytvořili jsme něco mnohem siln
 
 ![Work hard.](./img/TV_rollup.jpg)
 
-```diff
-! We are working hard to prepare this site
-```
 
-| Nadace jedličkova ústavu | #zelenykolicek |
-| --------  | -------- |
-| spans multiple lines Some long data that <br /> spans multiple lines Some long data that <br /> spans multiple lines spans multiple lines <br /> spans multiple lines Some long data that <br /> spans multiple lines Some long data that <br /> | <img src="./img/brief.jpg" alt="card" width="600"/> |
+
+

@@ -1,5 +1,7 @@
- <img src="./img/line.svg" alt="line" width="500"/> 
+ <img src="./img/line.svg" alt="line" width="500"/>
+ 
 # The Jedlička Foundation. Campaign & Visual Style.
+<br /> 
 <br /> 
 
 ## 1. Assignment

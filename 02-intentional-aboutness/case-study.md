@@ -31,17 +31,15 @@ Points we gathered during our research
 -	People without a handicap can be afraid to communicate with handicapped people.
 <br />
 
-## 3. Kampaň s názvem zelený kolíček
-Proč zelený kolíček?
-Zelený kolíček se stal symbolem nejen kampaně, ale celé nadace. Kolíček je inspirovaný skutečným příběhem stávajícího klienta Jakuba. Sami se můžete podívat na náš společný rozhovor, ve kterém naleznete všechny důležité odpovědi.
+## 3. A campaign called: Green Peg
+Green peg became a symbol of not only the campaign but also the whole foundation. A peg inspired by a real story of a current foundation’s client, Jakub. You can watch our interview with him in which you can find all the answers about the story and him.
 
 >#### Play Interview
 >[![interview](./img/inter_2.jpg)](https://www.youtube.com/watch?v=5RJ_7pBZ2uE&t "interview")
 
-Jak už bylo zmíněno. Zdravý lidé mají potíže s konfrontací s postiženými lidmi.
-A právě ti, ke kterým je směřována naše podpora, jsou naší největší motivací k práci. Proto jsme se rozhodli v nové kampani Zelený kolíček upozornit na to, že společnost nemusí být rozdělená na lidi zdravé a na lidi s postižením. Nikdo se nemusí být udělat první krok. Naše kampaň zelený kolíček podporuje motto Kolíček nás spojuje a nikdo se nemusí být udělat první krok k tomu, aby pomáhal.
+As already told, people without a handicap can find it difficult to communicate with handicapped people. Particularly these people are those who are our main motivation and our main target group. Because of them, we decided to point out in the campaign that society does not need to be split into handicapped and people without a handicap. Nobody has to be afraid to make the first step. Our campaign, green peg, is supported by a slogan: “A peg connects us and nobody has to be afraid to make the first step to help others”.
 
-Pojďme vzájemně respektovat naše schopnosti, pojďme pomáhat budovat nové možnosti a pojďme být jednou společností.
+Let's all together concerning our abilities, let’s help build opportunities for ourselves and let’s be one society.
 <br />
 
 <img src="./img/banner_wall.jpg" alt="banner_wall" width="1366"/> `#zelenykolicek` `#koliceknasspojuje` `#nadaceju` `#jsijedenznas`

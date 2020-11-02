@@ -1,3 +1,6 @@
+ <img src="./img/line.svg" alt="line" width="500"/>
+ <br />
+
 ## 1. Assignment
 About a year ago our school was asked by the Jedlička Foundation to create a marketing campaign for their 30th anniversary. To be exact a visual style with an idea for a tv spot.
 

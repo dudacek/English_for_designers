@@ -64,8 +64,8 @@ Not only did we met the client’s expectations, but we also created something m
   <br />
  <img src="./img/city_clv.jpg" alt="city_clv" width="1000"/>
  <img src="./img/web_QR.jpg" alt="web_QR" width="1000"/>
- <img src="./img/TV_rollup.jpg" alt="TV_rollup" width="450"/><img src="./img/chodov.jpg" alt="chodov" width="450"/>
-<img src="./img/metro_in.jpg" alt="metro_in" width="450"/><img src="./img/metro_way.jpg" alt="metro_way" width="450"/>
+<img src="./img/TV_rollup.jpg" alt="TV_rollup" width="450"/><img src="./img/chodov.jpg" alt="chodov" width="450"/>
+<img src="./img/metro_way.jpg" alt="metro_way" width="450"/>
 
 
 

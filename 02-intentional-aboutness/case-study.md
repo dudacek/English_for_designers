@@ -57,22 +57,15 @@ Not only did we met the client’s expectations, but we also created something m
 *My warm thanks for flawless cooperation goes to my two classmates Týna Janoušová and Jan Rákosník. They were an integral part of the project and thanks to them it was one hell of a ride.*
 
 <img src="./img/tyna.jpg" alt="tyna" width="300"/><img src="./img/jan.jpg" alt="jan" width="300"/><img src="./img/me.jpg" alt="me" width="300"/>
-
-<br />
-<br />
-<br />
-# Campaign Photo Collection
-
-<img src="./img/TV_rollup.jpg" alt="TV_rollup" width="400"/>
-<img src="./img/banner_chair.jpg" alt="banner_chair" width="1366"/>
-
-<img src="./img/chodov.jpg" alt="chodov" width="400"/>
-<img src="./img/city_clv.jpg" alt="city_clv" width="400"/>
-<img src="./img/metro_in.jpg" alt="metro_in" width="400"/>
-<img src="./img/metro_way.jpg" alt="metro_way" width="400"/>
-<img src="./img/rollup.jpg" alt="rollup" width="400"/>
-<img src="./img/stop_way.jpg" alt="stop_way" width="400"/>
-<img src="./img/web_QR.jpg" alt="web_QR" width="400"/>
+ <br />
+ <br />
+ <br />
+ # Campaign Photo Collection
+  <br />
+ <img src="./img/city_clv.jpg" alt="city_clv" width="1000"/>
+ <img src="./img/TV_rollup.jpg" alt="TV_rollup" width="500"/><img src="./img/chodov.jpg" alt="chodov" width="500"/>
+<img src="./img/metro_in.jpg" alt="metro_in" width="250"/><img src="./img/metro_way.jpg" alt="metro_way" width="250"/><img src="./img/stop_way.jpg" alt="stop_way" width="500"/>
+<img src="./img/web_QR.jpg" alt="web_QR" width="1000"/>
 
 
 

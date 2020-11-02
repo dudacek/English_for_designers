@@ -17,6 +17,8 @@ Zhruba před rokem naši školu oslovil klient Nadace jedličkova ústavu <br />
 ## 2.	Rešerše
 První fází našich příprav bylo seznámení se s prostředím nadace zabývající postižením i světem s tím spojeným. Velkým přínosem byla námi organizovaná společná setká s vedením nadace, a hlavně s jejich klienty. Navázáním vzájemné důvěry a vyslechnutí příběhů jsme získali cenné informace pro přípravu takové kampaně, která naplní veškerá očekávání klienta. 
 
+<img src="./img/start_idea.png" alt="start_idea" width="800"/>  `first ideas`
+
 #### Body vzešlé z rešerší:
 
 
@@ -41,9 +43,8 @@ A právě ti, ke kterým je směřována naše podpora, jsou naší největší 
 
 Pojďme vzájemně respektovat naše schopnosti, pojďme pomáhat budovat nové možnosti a pojďme být jednou společností.
 
-```diff
-#zelenykolicek #koliceknasspojuje #nadaceju #jsijedenznas
-```
+`#zelenykolicek` `#koliceknasspojuje` `#nadaceju` `#jsijedenznas`
+
 
 ## 4.	zakončení
 Nejen že jsme splnili klientovo zadání, ale vytvořili jsme něco mnohem silnějšího. Něco, co dokáže opravdu spojovat svět zdravých a svět postižených. Dali jsme klientovi symbol v podobě zeleného kolíčku, který bude v dalších letech reprezentovat Nadaci jedličkova ústavu. Klient může své další roky stavět na produktu, který má historii a příběh. Vytvořili jsme den zeleného kolíčku. A jednoho dne bude tento den znát většina obyvatel v České republice. Od 4.11. můžete vidět vizuální styl v plné kráse včetně televizního spotu. Už se ani vy nemusíte bát udělat první krok a pomáhat zakoupením zeleného kolíčku. 

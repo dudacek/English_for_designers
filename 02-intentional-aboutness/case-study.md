@@ -1,5 +1,8 @@
- <img src="./img/line.svg" alt="line" width="500"/>
- <br />
+ <img src="./img/line.svg" alt="line" width="500"/> 
+<br /> 
+
+# The Jedlička Foundation. Campaign & Visual Style.
+<br /> 
 
 ## 1. Assignment
 About a year ago our school was asked by the Jedlička Foundation to create a marketing campaign for their 30th anniversary. To be exact a visual style with an idea for a tv spot.
@@ -67,7 +70,14 @@ Not only did we met the client’s expectations, but we also created something m
  <img src="./img/metro_way.jpg" alt="metro_way" width="1000"/>
 <img src="./img/web_QR.jpg" alt="web_QR" width="1000"/>
 <img src="./img/chodov.jpg" alt="chodov" width="1000"/>
-<br />
+<br /> 
+
+ ```
+Project: Campaign & Visual Style.
+Design: Jakub Dudáček & Jan Rákosník
+Campaign: Týna Janoušová, Jakub Dudáček & Jan Rákosník
+Client: Nadace jedličkova ústavu
+ ```
  <br />
  <img src="./img/line.svg" alt="line" width="500"/>
 

@@ -23,10 +23,10 @@ První fází našich příprav bylo seznámení se s prostředím nadace zabýv
 
 
 - Klient nekomunikuje skrze reálné osoby, ale využívá animaci.
-  - Klient komunikuje v předchozích kampaních smutně až soucitně.
-    - Chceme vytvořit příběh.
-      - Chceme používat reálných osob a klientů nadace.
-        - Chceme být veselí.
+- Klient komunikuje v předchozích kampaních smutně až soucitně.
+- Chceme vytvořit příběh.
+- Chceme používat reálných osob a klientů nadace.
+- Chceme být veselí.
 -	Chceme využívat reálné příběhy postižených lidí.
 -	Chceme pochopit potřeby klienta i postižených lidí
 <br />
@@ -54,25 +54,26 @@ Nejen že jsme splnili klientovo zadání, ale vytvořili jsme něco mnohem siln
 >####  TV spot
 >[![NJU_TV_spot](./img/youtubespot_2.jpg)](http://www.youtube.com/watch?v=-Zy0uLBJQ4w "TV_spot")
 <br />
-<br />
+
 
 ## *Poděkování
 *Mé vřelé poděkování za bezvadnou spolupráci bych rád předal <br />svým dvěma spolužákům. Týna Janoušová a Honza Rákosník byli nedílnou <br />součásti celého projektu. A díky nim to byla parádní jízda.
 
+<img src="./img/tyna.jpg" alt="tyna" width="300"/><img src="./img/jan.jpg" alt="jan" width="300"/><img src="./img/me.jpg" alt="me" width="300"/>
 
 <img src="./img/TV_rollup.jpg" alt="TV_rollup" width="400"/>
 <img src="./img/banner_chair.jpg" alt="banner_chair" width="1366"/>
-<img src="./img/banner_wall.jpg" alt="banner_wall" width="1366"/>
+
 <img src="./img/chodov.jpg" alt="chodov" width="400"/>
 <img src="./img/city_clv.jpg" alt="city_clv" width="400"/>
-<img src="./img/jan.jpg" alt="jan" width="400"/>
+
 <img src="./img/me.jpg" alt="me" width="400"/>
 <img src="./img/metro_in.jpg" alt="metro_in" width="400"/>
 <img src="./img/metro_way.jpg" alt="metro_way" width="400"/>
 <img src="./img/rollup.jpg" alt="rollup" width="400"/>
 <img src="./img/start_idea.png" alt="start_idea" width="400"/>
 <img src="./img/stop_way.jpg" alt="stop_way" width="400"/>
-<img src="./img/tyna.jpg" alt="tyna" width="400"/>
+
 <img src="./img/web_QR.jpg" alt="web_QR" width="400"/>
 
 

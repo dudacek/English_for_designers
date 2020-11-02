@@ -2,9 +2,7 @@
  
 # The Jedlička Foundation. Campaign & Visual Style.
 <br /> 
-<br /> 
-
-- [Assignment](#assignment)
+<br />
 
 ## Assignment
 About a year ago our school was asked by the Jedlička Foundation to create a marketing campaign for their 30th anniversary. <br /> To be exact a visual style with an idea for a tv spot.
@@ -82,6 +80,7 @@ Campaign: Týna Janoušová, Jan Rákosník & Jakub Dudáček
 Client: Nadace jedličkova ústavu
  ```
  <br />
+ - [Go up](#assignment)
  <img src="./img/line.svg" alt="line" width="500"/>
 
 

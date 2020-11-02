@@ -56,7 +56,6 @@ Not only did we met the client’s expectations, but we also created something m
 >[![NJU_TV_spot](./img/youtubespot_2.jpg)](http://www.youtube.com/watch?v=-Zy0uLBJQ4w "TV_spot")
 <br />
 
-
 ## *Thanks*
 *My warm thanks for flawless cooperation goes to my two classmates Týna Janoušová and Jan Rákosník. They were an integral part of the project and thanks to them it was one hell of a ride.*
 

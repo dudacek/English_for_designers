@@ -1,5 +1,5 @@
 ## 1. zadání ##
-Zhruba před rokem naši školu oslovil klient Nadace jedličkova ústavu s žádostí o vytvoření kampaně pro 30 výročí. Přesněji vizuální styl s námětem krátkého video spotu do TV.
+Zhruba před rokem naši školu oslovil klient Nadace jedličkova ústavu <br />s žádostí o vytvoření kampaně pro 30 výročí. Přesněji vizuální styl s námětem <br /> krátkého video spotu do TV.
 
 <img src="./img/brief.jpg" alt="card" width="600"/>
 

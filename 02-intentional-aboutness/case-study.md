@@ -3,10 +3,15 @@ Zhruba před rokem naši školu oslovil klient Nadace jedličkova ústavu <br />
 
 <img src="./img/brief.jpg" alt="card" width="600"/> `brief`
 
-### Klient ###
+>## *Klient* ##
 
-*Nadace Jedličkova ústavu už od roku 1990 podporuje děti a mladé lidi
-s tělesným či kombinovaným postižením. Hlavní skupinou příjemců finančních prostředků jsou studenti a organizace kolem Jedličkova ústavu a škol v Praze, pomáháme však po celé České republice.*
+>*Nadace Jedličkova ústavu už od roku 1990 podporuje děti a mladé lidi
+>s tělesným či kombinovaným postižením. Hlavní skupinou příjemců finančních prostředků jsou studenti a organizace kolem Jedličkova ústavu a škol v Praze, pomáháme >však po celé České republice.*
+
+## 2.	Rešerše ##
+První fází našich příprav bylo seznámení se s prostředím nadace zabývající <br /> postižením i světem s tím spojeným. Velkým přínosem byla námi organizovaná společná <br /> setká s vedením nadace, a hlavně s jejich klienty. Navázáním vzájemné důvěry a vyslechnutí <br /> příběhů jsme získali cenné informace pro přípravu takové kampaně, která naplní veškerá očekávání klienta. 
+
+
 
 ## TV spot ##
 [![NJU_TV_spot](./img/youtubespot_2.jpg)](http://www.youtube.com/watch?v=-Zy0uLBJQ4w "TV_spot")

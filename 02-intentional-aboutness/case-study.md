@@ -1,16 +1,26 @@
-## 1. zadání ##
+## 1. zadání
 Zhruba před rokem naši školu oslovil klient Nadace jedličkova ústavu <br />s žádostí o vytvoření kampaně pro 30 výročí. Přesněji vizuální styl s námětem <br /> krátkého video spotu do TV.
 
 <img src="./img/brief.jpg" alt="card" width="600"/> `brief`
 
->## *Klient* ##
+>## *Klient*
 
 >*Nadace Jedličkova ústavu už od roku 1990 podporuje děti a mladé lidi
 >s tělesným či kombinovaným postižením. Hlavní skupinou příjemců finančních prostředků jsou studenti a organizace kolem Jedličkova ústavu a škol v Praze, pomáháme >však po celé České republice.*
 
-## 2.	Rešerše ##
-První fází našich příprav bylo seznámení se s prostředím nadace zabývající <br /> postižením i světem s tím spojeným. Velkým přínosem byla námi organizovaná společná <br /> setká s vedením nadace, a hlavně s jejich klienty. Navázáním vzájemné důvěry a vyslechnutí <br /> příběhů jsme získali cenné informace pro přípravu takové kampaně, která naplní veškerá očekávání klienta. 
+## 2.	Rešerše
+První fází našich příprav bylo seznámení se s prostředím nadace zabývající postižením i světem s tím spojeným. Velkým přínosem byla námi organizovaná společná setká s vedením nadace, a hlavně s jejich klienty. Navázáním vzájemné důvěry a vyslechnutí příběhů jsme získali cenné informace pro přípravu takové kampaně, která naplní veškerá očekávání klienta. 
 
+
+#### Body vzešlé z rešerší:
+
+- Klient nekomunikuje skrze reálné osoby, ale využívá animaci.
+- Klient komunikuje v předchozích kampaních smutně až soucitně.
+- Chceme vytvořit příběh.
+- Chceme používat reálných osob a klientů nadace.
+- Chceme být veselí.
+-	Chceme využívat reálné příběhy postižených lidí.
+-	Chceme pochopit potřeby klienta i postižených lidí
 
 
 ## TV spot ##

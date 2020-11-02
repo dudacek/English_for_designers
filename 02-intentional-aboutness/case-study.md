@@ -42,9 +42,10 @@ Jak už bylo zmíněno. Zdravý lidé mají potíže s konfrontací s postižen�
 A právě ti, ke kterým je směřována naše podpora, jsou naší největší motivací k práci. Proto jsme se rozhodli v nové kampani Zelený kolíček upozornit na to, že společnost nemusí být rozdělená na lidi zdravé a na lidi s postižením. Nikdo se nemusí být udělat první krok. Naše kampaň zelený kolíček podporuje motto Kolíček nás spojuje a nikdo se nemusí být udělat první krok k tomu, aby pomáhal.
 
 Pojďme vzájemně respektovat naše schopnosti, pojďme pomáhat budovat nové možnosti a pojďme být jednou společností.
+<br />
 
-<img src="./img/banner_wall.jpg" alt="banner_wall" width="1366"/> 
- `#zelenykolicek` `#koliceknasspojuje` `#nadaceju` `#jsijedenznas`
+<img src="./img/banner_wall.jpg" alt="banner_wall" width="1366"/> `#zelenykolicek` `#koliceknasspojuje` `#nadaceju` `#jsijedenznas`
+<br />
 <br />
 
 ## 4.	zakončení

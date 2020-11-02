@@ -43,8 +43,9 @@ A právě ti, ke kterým je směřována naše podpora, jsou naší největší 
 
 Pojďme vzájemně respektovat naše schopnosti, pojďme pomáhat budovat nové možnosti a pojďme být jednou společností.
 
-`#zelenykolicek` `#koliceknasspojuje` `#nadaceju` `#jsijedenznas`
-<img src="./img/banner_wall.jpg" alt="banner_wall" width="1366"/>
+<img src="./img/banner_wall.jpg" alt="banner_wall" width="1366"/> 
+ `#zelenykolicek` `#koliceknasspojuje` `#nadaceju` `#jsijedenznas`
+<br />
 
 ## 4.	zakončení
 Nejen že jsme splnili klientovo zadání, ale vytvořili jsme něco mnohem silnějšího. Něco, co dokáže opravdu spojovat svět zdravých a svět postižených. Dali jsme klientovi symbol v podobě zeleného kolíčku, který bude v dalších letech reprezentovat Nadaci jedličkova ústavu. Klient může své další roky stavět na produktu, který má historii a příběh. Vytvořili jsme den zeleného kolíčku. A jednoho dne bude tento den znát většina obyvatel v České republice. Od 4.11. můžete vidět vizuální styl v plné kráse včetně televizního spotu. Už se ani vy nemusíte bát udělat první krok a pomáhat zakoupením zeleného kolíčku. 

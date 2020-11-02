@@ -66,6 +66,8 @@ Not only did we met the client’s expectations, but we also created something m
  <img src="./img/metro_way.jpg" alt="metro_way" width="1000"/>
 <img src="./img/web_QR.jpg" alt="web_QR" width="1000"/>
 <img src="./img/chodov.jpg" alt="chodov" width="1000"/>
+<br />
+<br />
 
 
 

@@ -1,10 +1,8 @@
-```diff
-! We are working hard to prepare this site
-```
+## 1. zadání ##
+Zhruba před rokem naši školu oslovil klient Nadace jedličkova ústavu s žádostí o vytvoření kampaně pro 30 výročí. Přesněji vizuální styl s námětem krátkého video spotu do TV.
 
-| Nadace jedličkova ústavu | #zelenykolicek |
-| --------  | -------- |
-| spans multiple lines Some long data that <br /> spans multiple lines Some long data that <br /> spans multiple lines spans multiple lines <br /> spans multiple lines Some long data that <br /> spans multiple lines Some long data that <br /> | <img src="./img/brief.jpg" alt="card" width="600"/> |
+<img src="./img/brief.jpg" alt="card" width="600"/>
+
 
 ## TV spot ##
 [![NJU_TV_spot](./img/youtubespot_2.jpg)](http://www.youtube.com/watch?v=-Zy0uLBJQ4w "TV_spot")
@@ -30,3 +28,10 @@
 
 ![Work hard.](./img/TV_rollup.jpg)
 
+```diff
+! We are working hard to prepare this site
+```
+
+| Nadace jedličkova ústavu | #zelenykolicek |
+| --------  | -------- |
+| spans multiple lines Some long data that <br /> spans multiple lines Some long data that <br /> spans multiple lines spans multiple lines <br /> spans multiple lines Some long data that <br /> spans multiple lines Some long data that <br /> | <img src="./img/brief.jpg" alt="card" width="600"/> |

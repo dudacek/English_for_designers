@@ -5,10 +5,10 @@ Zhruba před rokem naši školu oslovil klient Nadace jedličkova ústavu <br />
 
 <img src="./img/brief.jpg" alt="card" width="600"/> `brief`
 
->## *Klient*
+>## *Klient
 
 >*Nadace Jedličkova ústavu už od roku 1990 podporuje děti a mladé lidi
->s tělesným či kombinovaným postižením. Hlavní skupinou příjemců finančních prostředků jsou studenti a organizace kolem Jedličkova ústavu a škol v Praze, pomáháme >však po celé České republice.*
+>s tělesným či kombinovaným postižením. Hlavní skupinou příjemců finančních prostředků jsou studenti a organizace kolem Jedličkova ústavu a škol v Praze, pomáháme >však po celé České republice.
 
  <sub>[Nadace jedličkova ústavu](https://nadaceju.cz) I [Instragram](https://www.instagram.com/nadaceju/) I [Facebook](https://www.facebook.com/nadaceju)<sub>
 <br />
@@ -51,8 +51,8 @@ Nejen že jsme splnili klientovo zadání, ale vytvořili jsme něco mnohem siln
 >####  TV spot
 >[![NJU_TV_spot](./img/youtubespot_2.jpg)](http://www.youtube.com/watch?v=-Zy0uLBJQ4w "TV_spot")
 
-
-*Mé vřelé poděkování za bezvadnou spolupráci bych rád předal <br />svým dvěma spolužákům. Týna Janoušová a Honza Rákosník byli nedílnou <br />součásti celého projektu. A díky nim to byla parádní jízda.*
+>## *Poděkování
+>*Mé vřelé poděkování za bezvadnou spolupráci bych rád předal <br />svým dvěma spolužákům. Týna Janoušová a Honza Rákosník byli nedílnou <br />součásti celého projektu. A díky nim to byla parádní jízda.
 
 
 <img src="./img/TV_rollup.jpg" alt="TV_rollup" width="400"/>

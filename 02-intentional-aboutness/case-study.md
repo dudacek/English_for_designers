@@ -44,7 +44,7 @@ A právě ti, ke kterým je směřována naše podpora, jsou naší největší 
 Pojďme vzájemně respektovat naše schopnosti, pojďme pomáhat budovat nové možnosti a pojďme být jednou společností.
 
 `#zelenykolicek` `#koliceknasspojuje` `#nadaceju` `#jsijedenznas`
-
+<img src="./img/banner_wall.jpg" alt="banner_wall" width="1366"/>
 
 ## 4.	zakončení
 Nejen že jsme splnili klientovo zadání, ale vytvořili jsme něco mnohem silnějšího. Něco, co dokáže opravdu spojovat svět zdravých a svět postižených. Dali jsme klientovi symbol v podobě zeleného kolíčku, který bude v dalších letech reprezentovat Nadaci jedličkova ústavu. Klient může své další roky stavět na produktu, který má historii a příběh. Vytvořili jsme den zeleného kolíčku. A jednoho dne bude tento den znát většina obyvatel v České republice. Od 4.11. můžete vidět vizuální styl v plné kráse včetně televizního spotu. Už se ani vy nemusíte bát udělat první krok a pomáhat zakoupením zeleného kolíčku. 
@@ -52,9 +52,10 @@ Nejen že jsme splnili klientovo zadání, ale vytvořili jsme něco mnohem siln
 >####  TV spot
 >[![NJU_TV_spot](./img/youtubespot_2.jpg)](http://www.youtube.com/watch?v=-Zy0uLBJQ4w "TV_spot")
 <br />
+<br />
 
->## *Poděkování
->*Mé vřelé poděkování za bezvadnou spolupráci bych rád předal <br />svým dvěma spolužákům. Týna Janoušová a Honza Rákosník byli nedílnou <br />součásti celého projektu. A díky nim to byla parádní jízda.
+## *Poděkování
+*Mé vřelé poděkování za bezvadnou spolupráci bych rád předal <br />svým dvěma spolužákům. Týna Janoušová a Honza Rákosník byli nedílnou <br />součásti celého projektu. A díky nim to byla parádní jízda.
 
 
 <img src="./img/TV_rollup.jpg" alt="TV_rollup" width="400"/>

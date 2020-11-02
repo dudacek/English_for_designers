@@ -5,7 +5,7 @@
 <br /> 
 
 ## 1. Assignment
-About a year ago our school was asked by the Jedlička Foundation to create a marketing campaign for their 30th anniversary. To be exact a visual style with an idea for a tv spot.
+About a year ago our school was asked by the Jedlička Foundation to create a marketing campaign for their 30th anniversary. <br /> To be exact a visual style with an idea for a tv spot.
 
 <img src="./img/brief.jpg" alt="card" width="600"/> `brief`
 
@@ -77,7 +77,7 @@ Design: Jakub Dudáček & Jan Rákosník
 Campaign: Týna Janoušová, Jakub Dudáček & Jan Rákosník
 Client: Nadace jedličkova ústavu
  ```
- <br /> 
+ <br />
  <img src="./img/line.svg" alt="line" width="500"/>
 
 

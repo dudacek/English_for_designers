@@ -8,5 +8,5 @@
 - [Character & Description](character_&_description/letter_j_dudacek.md)
 
 ---
-[Home](./img/youtubespot_2.jpg)
+[Home]()
 

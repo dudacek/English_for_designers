@@ -1,6 +1,6 @@
 ## Jakub Dudáček
 
-- [About](./02-intentional-aboutness/case-study)
+- [About](English_for_designers/02-intentional-aboutness/case-study)
 - [Experience](./img/youtubespot_2.jpg)
 
 ## Work

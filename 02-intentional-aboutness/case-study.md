@@ -50,7 +50,7 @@ Let's all together concerning our abilities, let’s help build opportunities fo
 <br />
 
 ## Summary & Impact
-Not only did we met the client’s expectations, but we also created something much stronger at the same time. Something that can help to keep the world of handicapped and not handicapped as one and connected. We gave the client a symbol in the shape of a green peg which will be representing the foundation for years to come. The client can in the next years build on a product that has a history but most importantly a story. We created a day of the peg and one day most of the people in the Czech Republic will know this day. Since 4.11 you can see our visual style in its’ full beauty and a tv spot to go with it. From now on not even, you have to be afraid to make the first step by buying a green peg.
+Not only did we met the client’s expectations, but we also created something much stronger at the same time. Something that can help to keep the world of handicapped and not handicapped as one and connected. We gave the client a symbol in the shape of a green peg which will be representing the foundation for years to come. The client can in the next years build on a product that has a history but most importantly a story. We created a day of the peg and one day most of the people in the Czech Republic will know this day. Since 4th of November you can see our visual style in it’s full beauty and a TV spot to go with it. From now on not even, you have to be afraid to make the first step by buying a green peg.
 
 >####  TV spot
 >[![NJU_TV_spot](./img/youtubespot_2.jpg)](http://www.youtube.com/watch?v=-Zy0uLBJQ4w "TV_spot")

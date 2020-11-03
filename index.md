@@ -1,7 +1,7 @@
 # Jakub Dudáček
 
 - [About](02-intentional-aboutness/about.md)
-- [Experience](02-intentional-aboutness/cv-dudacek.md)
+- [Experience](03-curriculum-vitae/cv-dudacek.md)
 
 ## Work
 - [Case Study](02-intentional-aboutness/case-study.md)
@@ -9,4 +9,3 @@
 
 ---
 [Home](https://dudacek.github.io/English_for_designers/)
-

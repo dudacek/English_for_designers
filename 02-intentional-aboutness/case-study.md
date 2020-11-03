@@ -29,6 +29,7 @@ The first part of our preparation was to get to know the environment of the foun
 `first ideas`
 
 <br />
+
 #### Points we gathered during our research:
 
 -	The client doesn't use real people but rather animation.

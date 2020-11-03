@@ -1,7 +1,7 @@
 # Jakub Dudáček
 
 - [About](02-intentional-aboutness/about.md)
-- [Experience]()
+- [Experience](02-intentional-aboutness/cv-dudacek.md)
 
 ## Work
 - [Case Study](02-intentional-aboutness/case-study.md)

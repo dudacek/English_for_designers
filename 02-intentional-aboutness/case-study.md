@@ -12,6 +12,7 @@ About a year ago our school was asked by the Jedlička Foundation to create a ma
 `brief`
 
 <br />
+
 >## *Client*
 
 >*The Jedlička Foundation supports children and youth with a physical and combined disability since 1990. The main receivers of the finance are students of the Jedlička Institute and Schools in Prague. Other than that the foundation helps all over the Czech Republic.*

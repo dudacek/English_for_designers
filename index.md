@@ -8,5 +8,5 @@
 - [Character & Description](character_&_description/letter_j_dudacek.md)
 
 ---
-[Home](English_for_designers)
+[Home](https://dudacek.github.io/English_for_designers/)
 

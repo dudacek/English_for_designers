@@ -11,6 +11,7 @@ About a year ago our school was asked by the Jedlička Foundation to create a ma
 
 `brief`
 
+<br />
 >## *Client*
 
 >*The Jedlička Foundation supports children and youth with a physical and combined disability since 1990. The main receivers of the finance are students of the Jedlička Institute and Schools in Prague. Other than that the foundation helps all over the Czech Republic.*
@@ -22,8 +23,11 @@ About a year ago our school was asked by the Jedlička Foundation to create a ma
 ## Research
 The first part of our preparation was to get to know the environment of the foundation supporting the handicapped. A big help was meeting with the manageress of the foundation and mainly their clients. By building mutual trust with the clients and hearing their stories we gathered very valuable information for preparing such a campaign to fulfill all the client's expectations. 
 
-<img src="./img/start_idea.png" alt="start_idea" width="800"/>  `first ideas`
+<img src="./img/start_idea.png" alt="start_idea" width="800"/>  
 
+`first ideas`
+
+<br />
 #### Points we gathered during our research:
 
 -	The client doesn't use real people but rather animation.

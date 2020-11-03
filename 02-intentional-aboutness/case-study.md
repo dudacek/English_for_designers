@@ -7,7 +7,9 @@
 ## Assignment
 About a year ago our school was asked by the Jedlička Foundation to create a marketing campaign for their 30th anniversary. <br /> To be exact a visual style with an idea for a TV spot.
 
-<img src="./img/brief.jpg" alt="card" width="600"/> `brief`
+<img src="./img/brief.jpg" alt="card" width="600"/> 
+
+`brief`
 
 >## *Client*
 

@@ -34,7 +34,7 @@ The first part of our preparation was to get to know the environment of the foun
 -	People without a handicap can be afraid to communicate with handicapped people.
 <br />
 
-## A campaign called: Green Peg
+## A Campaign Called: Green Peg
 Green peg became a symbol of not only the campaign but also the whole foundation. A peg inspired by a real story of a current foundation’s client, Jakub. You can watch our interview with him in which you can find all the answers about the story and him.
 
 >#### Play Interview

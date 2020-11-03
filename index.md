@@ -1,11 +1,11 @@
 # Jakub Dudáček
 
 - [About](02-intentional-aboutness/about.md)
-- [Experience](./img/youtubespot_2.jpg)
+- [Experience]()
 
 ## Work
 - [Case Study](02-intentional-aboutness/case-study.md)
-- [Character & Description](./img/youtubespot_2.jpg)
+- [Character & Description](character_&_description/letter_j_dudacek.md)
 
 ---
 [Home](./img/youtubespot_2.jpg)

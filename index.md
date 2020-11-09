@@ -8,4 +8,4 @@
 - [Character & Description](character_&_description/letter_j_dudacek.md)
 
 ---
-[Home](https://dudacek.github.io/english_for_designers/)
+[Home](https://github.com/dudacek)

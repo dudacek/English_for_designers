@@ -9,6 +9,3 @@
 
 ---
 [Home](https://github.com/dudacek)
-
-
-[Home](https://github.com/dominikahynkova)

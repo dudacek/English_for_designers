@@ -6,7 +6,6 @@ Ke Krči 38<br >
 dudacek.jakub@gmail.com<br > 
 
 ## Work experience
----
 
 09/2020–Present<br > 
 **Yellow Shapes, s.r.o.**<br > 
@@ -26,8 +25,7 @@ Shift manager
 **McDonald's ČR, s.r.o.**<br > 
 Floor manager
 
-## Education
----
+## Education
 
 2019–Present<br > 
 **Vysoká škola kreativní komunikace**<br > 
@@ -39,7 +37,6 @@ Ekonomie**
 Field of Study Economics
 
 ## Experience
----
 
 2019–2020<br > 
 **Yellow Shapes, s.r.o.**<br > 

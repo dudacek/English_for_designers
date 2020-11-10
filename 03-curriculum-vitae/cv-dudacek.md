@@ -33,10 +33,9 @@ Floor manager
 **Vysoká škola kreativní komunikace**<br > 
 Grafika a mediální design
 
-2014–2018<br > 	1. **KŠPA Litoměřice
+2014–2018<br > 	**1. KŠPA Litoměřice
 Soukromá střední odborná škola
 Ekonomie**
-
 
 ## Experience
 

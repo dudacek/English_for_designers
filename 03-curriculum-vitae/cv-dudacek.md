@@ -66,4 +66,16 @@ Section Management and People Training
 Czech / Native speaker<br >
 English / B1
 
+## Skills
+
+Driving license / Group B<br >
+<br >
+Adobe Photoshop<br >
+Adobe Illustrator<br >
+Adobe InDesign<br >
+Adobe Premier Pro, After Effects, Dimension<br >
+Figma
+
+
+
 

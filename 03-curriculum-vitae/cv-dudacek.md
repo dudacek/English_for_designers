@@ -36,8 +36,10 @@ Grafika a mediální design
 2014–2018<br > 	**1. KŠPA Litoměřice
 Soukromá střední odborná škola
 Ekonomie**
+Field of Study Economics
 
 ## Experience
+---
 
 2019–2020<br > 
 **Yellow Shapes, s.r.o.**<br > 

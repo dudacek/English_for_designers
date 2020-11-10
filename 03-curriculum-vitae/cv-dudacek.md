@@ -11,7 +11,7 @@ dudacek.jakub@gmail.com<br >
 
 09/2020–Present<br > 
 **Yellow Shapes, s.r.o.**<br > 
-Packaging Graphic Studio
+Packaging Graphic Studio<br >
 Graphic
 
 09/2012–11/2019<br > 

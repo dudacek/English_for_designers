@@ -33,7 +33,7 @@ Grafika a mediální design
 
 2014–2018<br > 	**1. KŠPA Litoměřice
 Soukromá střední odborná škola
-Ekonomie**
+Ekonomie**<br >
 Field of Study Economics
 
 ## Experience
@@ -76,6 +76,6 @@ Adobe InDesign<br >
 Adobe Premier Pro, After Effects, Dimension<br >
 Figma
 
+## Free time
 
-
-
+design, graphics, golf, technology, sports, traveling, art

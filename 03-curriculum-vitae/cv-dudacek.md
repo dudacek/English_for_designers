@@ -1,9 +1,10 @@
 ## Jakub Dudáček
 
-Ke Krči 38<br > 
+<sub>Ke Krči 38<br > 
 147 00 Praha 4<br > 
 +420 773 000 568<br > 
-dudacek.jakub@gmail.com<br > 
+dudacek.jakub@gmail.com<br ><sub>
+<sub>[Portfolio](https://dudacek.cz) I [Instragram](https://www.instagram.com/dudacek.jakub/) I [Facebook](https://www.facebook.com/jakub.dudacek.10)<sub>
 
 ## Work experience
 

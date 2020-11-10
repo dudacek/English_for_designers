@@ -1,47 +1,49 @@
 ## Jakub Dudáček
 
-Ke Krči 38
-147 00 Praha 4
-+420 773 000 568
-dudacek.jakub@gmail.com
+Ke Krči 38<br > 
+147 00 Praha 4<br > 
++420 773 000 568<br > 
+dudacek.jakub@gmail.com<br > 
 
 ## Work experience
 ---
 
-09/2020–Present
-**Yellow Shapes, s.r.o.**
+09/2020–Present<br > 
+**Yellow Shapes, s.r.o.**<br > 
 Packaging Graphic Studio
 Graphic
 
-09/2012–11/2019	
+09/2012–11/2019<br > 
 **FLYDENN s.r.o.
-Oficiální Vodafone partner**
+Oficiální Vodafone partner**<br > 
 Store Manager
 
-04/2011–09/2012	**McDonald's ČR, s.r.o.**
+04/2011–09/2012<br > 
+**McDonald's ČR, s.r.o.**<br > 
 Shift manager
 
-07/2010–04/2011	**McDonald's ČR, s.r.o.**
+07/2010–04/2011<br > 
+**McDonald's ČR, s.r.o.**<br > 
 Floor manager
 
 ## Education
 ---
 
-2019–Present	
-**Vysoká škola kreativní komunikace**
+2019–Present<br > 
+**Vysoká škola kreativní komunikace**<br > 
 Grafika a mediální design
 
-2014–2018	1. **KŠPA Litoměřice
+2014–2018<br > 	1. **KŠPA Litoměřice
 Soukromá střední odborná škola
 Ekonomie**
 
-## Experience
----
 
-2019–2020	
-**Yellow Shapes, s.r.o.**
+## Experience
+
+2019–2020<br > 
+**Yellow Shapes, s.r.o.**<br > 
 Packaging Design
 
-**Kreativní Kancl**
+**Kreativní Kancl**<br > 
 graphics, advertising, preparation of visual styles and campaigns
 

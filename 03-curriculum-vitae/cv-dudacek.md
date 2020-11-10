@@ -48,16 +48,22 @@ graphics, advertising, preparation of visual styles and campaigns
 
 ## Courses
 
-**Adobe Photoshop**
+**Adobe Photoshop**<br >
 Certified advanced course
 
-**Certification for Executives**
+**Certification for Executives**<br >
 People Education, Team Leadership, Work Efficiency
 
-**Management Education, Shift Manager**
+**Management Education, Shift Manager**<br >
 Shift Management, Training, Coordination and Education of People
 
-**Management Education, Floore Manager**
+**Management Education, Floore Manager**<br >
 Section Management and People Training
+
+
+## Languages
+
+Czech / Native speaker<br >
+English / B1
 
 

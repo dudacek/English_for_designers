@@ -45,3 +45,19 @@ Packaging Design
 **Kreativní Kancl**<br > 
 graphics, advertising, preparation of visual styles and campaigns
 
+
+## Courses
+
+**Adobe Photoshop**
+Certified advanced course
+
+**Certification for Executives**
+People Education, Team Leadership, Work Efficiency
+
+**Management Education, Shift Manager**
+Shift Management, Training, Coordination and Education of People
+
+**Management Education, Floore Manager**
+Section Management and People Training
+
+

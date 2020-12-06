@@ -1,13 +1,11 @@
 ## Writing Style
 
-…
-
-## Voice
-
 ###### Funny – `Neutral` – Serious
 ###### `Casual` – Neutral – Formal
 ###### Irreverent – Neutral – `Respectful`
 ###### Enthusiastic – `Neutral` – Matter-of-fact
+
+## Voice
 
 1. Authentic
 2. Inspiring

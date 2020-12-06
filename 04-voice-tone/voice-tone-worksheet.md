@@ -15,6 +15,8 @@
 4. Direct
 
 
+
+
 ###### Funny – `Neutral` – Serious
 ###### `Casual` – Neutral – Formal
 ###### Irreverent – Neutral – `Respectful`

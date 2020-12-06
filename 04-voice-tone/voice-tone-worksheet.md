@@ -4,6 +4,11 @@
 
 ## Voice
 
+###### Funny – `Neutral` – Serious
+###### `Casual` – Neutral – Formal
+###### Irreverent – Neutral – `Respectful`
+###### Enthusiastic – `Neutral` – Matter-of-fact
+
 1. Authentic
 2. Inspiring
 
@@ -13,11 +18,3 @@
 2. Positive
 3. Clear
 4. Direct
-
-
-
-
-###### Funny – `Neutral` – Serious
-###### `Casual` – Neutral – Formal
-###### Irreverent – Neutral – `Respectful`
-###### Enthusiastic – `Neutral` – Matter-of-fact

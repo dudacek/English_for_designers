@@ -1,13 +1,13 @@
+###### Funny – `Neutral` – Serious
+###### `Casual` – Neutral – Formal
+###### Irreverent – Neutral – `Respectful`
+###### Enthusiastic – `Neutral` – Matter-of-fact
+
 ## Writing Style
 
 I want to tell my life story. 
 Show an authentic, not afraid of humor, 
 but approach the topic with respect and reverence.
-
-###### Funny – `Neutral` – Serious
-###### `Casual` – Neutral – Formal
-###### Irreverent – Neutral – `Respectful`
-###### Enthusiastic – `Neutral` – Matter-of-fact
 
 ## Voice
 

@@ -2,7 +2,7 @@
 Copying can help newcomers become better designers. When I was little, I enjoyed watching graphic design. 
 I tried to look at the work of others. My first graphic project was web graphics and the web itself. 
 As a team leader in the tourist section, I needed to bring together members outside the clubhouse. 
-Give them private and secret information. Owning a private site seemed like a clear solution.
+Give them private and secret information :no_mouth:. Owning a private site seemed like a clear solution.
 At the age of 13, I had no experience with web programming or web graphics. There was nothing left but to search the online world and see how others were doing it.
 
 I took the graphics from the main website of our tourist section and adapted the color and graphic pictograms for our team. 

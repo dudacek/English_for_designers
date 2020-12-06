@@ -16,9 +16,6 @@
 
 
 ###### Funny – `Neutral` – Serious
-
 ###### `Casual` – Neutral – Formal
-
 ###### Irreverent – Neutral – `Respectful`
-
 ###### Enthusiastic – `Neutral` – Matter-of-fact

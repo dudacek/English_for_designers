@@ -11,3 +11,6 @@ My inspiration was graphics taken from our tourist section workshop website. I a
 We still learn by copying from each other. For example, copying help spread the message of founders and developers. 
 Help not only young people but all newcomers in various fields. Most of us add our creative ideas after mastering the basic techniques. 
 Copying helps us to define the meaning of life in the future phase of life.
+
+
+![Screen: Old but still current website Jak Psát Web.](img/fig-6-1.png)

@@ -13,4 +13,4 @@ Help not only young people but all newcomers in various fields. Most of us add o
 Copying helps us to define the meaning of life in the future phase of life.
 
 
-![Screen: Old but still current website Jak Psát Web.](img/fig-6-1.png)
+![Screen: Old but still current website Jak Psát Web.](website-jak-psat-web.png)

@@ -14,3 +14,4 @@ Copying helps us to define the meaning of life in the future phase of life.
 
 
 ![Screen: Old but still current website Jak Psát Web.](website-jak-psat-web.png)
+*Screen: Old but still current website Jak Psát Web.*

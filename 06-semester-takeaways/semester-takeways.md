@@ -3,5 +3,5 @@
 1. Content first
 2. Always work on me, my work, and be able to present myself better.
 3. Do not be afraid to make mistakes.
-4. …
+4. I don't have to be ashamed to use helper applications. Copying is something that can help us be better.
 5. …

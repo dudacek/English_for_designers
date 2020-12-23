@@ -3,21 +3,21 @@
   - What is the USA?
   - Why America?
   
-- Before the trip
+- Before the Trip
   - Ticket
   - School
   - Do not be afraid
   
-- Discover my way & interesting places
+- Discover My Way & Interesting Places
   - Say goodbye to my mom
   - Crazy moments & First days
   - Transport to San Diego
   - Las Vegas
   - Food
   
-- What did I learn?
-- What surprised me?
-- The end
+- What Did I Learn?
+- What Surprised Me?
+- The End
 
 [My presentation -here-](https://github.com/dudacek/english_for_designers/blob/main/05-presentation-stoytelling/jakub-dudacek-presentation-usa.pdf)
 

@@ -1,3 +1,5 @@
+### Structure
+
 - Introduction (Who Am I?)
 - Trip to USA
   - What is the USA?
@@ -19,13 +21,14 @@
 - What Surprised Me?
 - The End
 
+### Presentation for viewing
 [My presentation -here-](https://github.com/dudacek/english_for_designers/blob/main/05-presentation-stoytelling/jakub-dudacek-presentation-usa.pdf)
 
 My Notes for Presentation
 <img src="./img/my-notes-for-presentation-usa.jpg" alt="my-notes-for-presentation-usa" width="1000"/> 
 
 
-#### Presentation
+### Presentation text
 I would like to tell you about my life experience. It was a trip to the USA. Although it has nothing to do with graphics, thanks to this journey, I realized only one thing. Do what you want to do.
 
 #### Before we begin – introducing the USA

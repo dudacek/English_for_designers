@@ -21,17 +21,17 @@
 - What Surprised Me?
 - The End
 
-### Presentation for viewing
-[My presentation -here-](https://github.com/dudacek/english_for_designers/blob/main/05-presentation-stoytelling/jakub-dudacek-presentation-usa.pdf)
+### Presentation for Viewing
+[My Presentation -HERE-](https://github.com/dudacek/english_for_designers/blob/main/05-presentation-stoytelling/jakub-dudacek-presentation-usa.pdf)
 
 My Notes for Presentation
 <img src="./img/my-notes-for-presentation-usa.jpg" alt="my-notes-for-presentation-usa" width="1000"/> 
 
 
-### Presentation text
+### Presentation Text
 I would like to tell you about my life experience. It was a trip to the USA. Although it has nothing to do with graphics, thanks to this journey, I realized only one thing. Do what you want to do.
 
-#### Before we begin – introducing the USA
+#### Before We Begin – Introducing the USA
 
 #### Why the US? 
 I don't know. Maybe the distance, another world. Something unattainable and elusive. Symbol of freedom, smiles. Maybe Las Vegas and also maybe their culture. How knows? But I will show you a small intro to my mind.

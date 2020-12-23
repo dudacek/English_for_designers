@@ -1,4 +1,4 @@
-- Introduction (Who am I?)
+- Introduction (Who Am I?)
 - Trip to USA
   - What is the USA?
   - Why America?

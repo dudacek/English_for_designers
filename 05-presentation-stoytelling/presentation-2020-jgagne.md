@@ -8,7 +8,7 @@
   - School
   - Do not be afraid
   
-- My way & interesting places
+- Discover my way & interesting places
   - Say goodbye to my mom
   - Crazy moments & First days
   - Transport to San Diego

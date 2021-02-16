@@ -13,7 +13,7 @@
 - [Presentation Storytelling](05-presentation-stoytelling/presentation-2020-dudacek.md)
    - [PDF Presentation](05-presentation-stoytelling/jakub-dudacek-presentation-usa.pdf)
 
-- [Semestr Takeways](06-semester-takeaways/semester-takeways.md)
+- [Semester Takeways](06-semester-takeaways/semester-takeways.md)
 
 
 ---

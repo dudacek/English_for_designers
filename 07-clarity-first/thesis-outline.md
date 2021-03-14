@@ -44,23 +44,22 @@ It primarily focuses on first-time voters and young audience.
 
 ## Keywords
 
-- **Campaign
-- **Political campaign
-- **Presidential election
-- **Political marketing
-- **Brand
-- **Corporate design
-- **Corporate identity
-- **Visual Comunication
-- **Marketing Comunication
-- **Political design
-- **Logo
-- **Political slogan
-- **Visual style of the political campaign
-- **Marketing MIX
-- **Presidential candidate
-- **Addressing target groups
-
+- **Campaign**
+- **Political campaign**
+- **Presidential election**
+- **Political marketing**
+- **Brand**
+- **Corporate design**
+- **Corporate identity**
+- **Visual Comunication**
+- **Marketing Comunication**
+- **Political design**
+- **Logo**
+- **Political slogan**
+- **Visual style of the political campaign**
+- **Marketing MIX**
+- **Presidential candidate**
+- **Addressing target groups**
 
 ### References
 

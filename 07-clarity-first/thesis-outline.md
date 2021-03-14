@@ -46,7 +46,7 @@ It primarily focuses on first-time voters and young audience.
 
 - **Campaign**
 - **Political campaign**
-- **Presidential election**
+- **Political slogan**
 - **Political marketing**
 - **Brand**
 - **Corporate design**
@@ -54,12 +54,14 @@ It primarily focuses on first-time voters and young audience.
 - **Visual Comunication**
 - **Marketing Comunication**
 - **Political design**
-- **Logo**
-- **Political slogan**
-- **Visual style of the political campaign**
-- **Marketing MIX**
+- **Logo design**
+- **Social network**
+- **Visual style**
 - **Presidential candidate**
+- **Presidential election**
 - **Addressing target groups**
+- **Marketing MIX**
+- **merchandising**
 
 ### References
 

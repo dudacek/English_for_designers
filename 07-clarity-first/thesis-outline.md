@@ -22,32 +22,45 @@ It primarily focuses on first-time voters and young audience.
 
 ## Outline
 
-1. Key point; aim for a single-sentence in 120 characters or less.
-2. Key point; aim for a single-sentence in 120 characters or less.
-3. Key point; aim for a single-sentence in 120 characters or less.
-4. Key point; aim for a single-sentence in 120 characters or less.
-5. Key point; aim for a single-sentence in 120 characters or less.
-6. Another key point?
-7. Too long, didn’t read?
+1. Preparation of an outline of the presidential campaign for Marek Hilšer
+2. Analysis of the presidential candidate.
+3. Preparation of brief with Mark Hilšer.
+4. Creating brand (personal) essence based on analysis and brief.
+5. Research of the target group of young people + questionnaires.
+6. The first phase of the campaign brings candidate Marek Hilšer closer to first-time voters and young audience.
+7. Conducts dialogue with young audiences through social networks and online streaming.
+8. The second phase of the campaign promotes Marek Hilšer as the future president + his promises.
+9. Communication with the general public through contact campaigns and outdoor advertising.
 
 ### Notes
 
-- …
-- …
-- …
+- Communication analysis
+- Brand essence
+- Political brand
+- Contact campaign
+- Phases of political campaigns
+- Using social networks for political campaigns
+- Communication of a political entity
 
 ## Keywords
 
-- **Keyword**
-  - Definition/description; aim for a single-sentence in 120 characters or less.
-- **Keyword**
-  - Definition/description; aim for a single-sentence in 120 characters or less.
-- **Keyword**
-  - Definition/description; aim for a single-sentence in 120 characters or less.
-- **Keyword**
-  - Definition/description; aim for a single-sentence in 120 characters or less.
-- **Keyword**
-  - Definition/description; aim for a single-sentence in 120 characters or less.
+- **Campaign
+- **Political campaign
+- **Presidential election
+- **Political marketing
+- **Brand
+- **Corporate design
+- **Corporate identity
+- **Visual Comunication
+- **Marketing Comunication
+- **Political design
+- **Logo
+- **Political slogan
+- **Visual style of the political campaign
+- **Marketing MIX
+- **Presidential candidate
+- **Addressing target groups
+
 
 ### References
 

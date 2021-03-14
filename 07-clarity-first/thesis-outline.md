@@ -1,6 +1,7 @@
-# Thesis Title
+# The 2023 Presidential Election Campaign for Mark Hilšer
 
-Short description; aim for a single-sentence in 120 characters or less.
+The work addresses the outline of the first and second part of the presidential election campaign.
+It primarily focuses on first-time voters and young audience.
 
 <!-- Note the inclusion of an empty line break after the summary element for formatting. -->
 

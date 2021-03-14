@@ -65,8 +65,6 @@ It primarily focuses on first-time voters and young audience.
 
 ### References
 
-<!-- Consider reference style for textual works, data sets, and audiovisual and online media. -->
-
-- [APA Style Reference Examples](https://apastyle.apa.org/style-grammar-guidelines/references/examples)
-- [Reference](http://)
-- [Reference](http://)
+- [Marek Hilšer](https://www.marekhilserdosenatu.cz)
+- [Political Marketing](https://politickymarketing.com)
+- [Presidential campaign 2018](https://www.mediar.cz/prezidentske-kampane-2018-kdo-a-jak-je-dela/)

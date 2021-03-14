@@ -8,7 +8,7 @@ It primarily focuses on first-time voters and young audience.
 <details>
   <summary>Mind Map</summary>
 
-  ![Gray box placeholder image, for position only.](./img/thesis-mind-map.png)
+  ![Gray box placeholder image, for position only.](./img/mind-map-campaing.png)
 </details>
 
 ### Voice & Tone

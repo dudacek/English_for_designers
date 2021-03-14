@@ -13,10 +13,12 @@ It primarily focuses on first-time voters and young audience.
 
 ### Voice & Tone
 
-<!-- For example. See Recap section links for review. -->
+###### Funny – 1 2 `3` 4 5 – Serious
+###### Formal – 1 2 3 `4` 5 – Informal
+###### Respectfully – 1 `2` 3 4 5 – Disrespectfully
+###### Excited – 1 2 `3` 4 5 – Factual
 
-- **Voice:** Human, confident, educated, and inspirational.
-- **Tone:** Formal (academic), but friendly, enthusiastic, and conversational.
++ enthusiastic & conversational
 
 ## Outline
 

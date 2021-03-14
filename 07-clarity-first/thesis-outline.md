@@ -18,7 +18,7 @@ It primarily focuses on first-time voters and young audience.
 ###### Respectfully – 1 `2` 3 4 5 – Disrespectfully
 ###### Excited – 1 2 `3` 4 5 – Factual
 
-+ enthusiastic & conversational
+`+ enthusiastic & conversational`
 
 ## Outline
 

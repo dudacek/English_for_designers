@@ -42,7 +42,7 @@ During the preparation of the campaign, I was in close contact with Mark Hilšer
 ![Healthy Five Program.](./img/health-five-program.jpg)
 
 <details>
-  <summary>Outdoor communicationt</summary>
+  <summary>Outdoor communicationt & Program brochure</summary>
   
 ![Demonstration of outdoor communication.](./img/outdoor-clv-communication.jpg)
 

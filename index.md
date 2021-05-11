@@ -15,6 +15,15 @@
 
 - [Semester Takeways](06-semester-takeaways/semester-takeways.md)
 
+---
+
+- [Clarity First](07-clarity-first/thesis-outline.md)
+- [Abstract Draft](08-abstract-draft/abstract-draft.md)
+- [Summary Details](09-summary-details/thesis-summary-details.md)
+- [Final Presentation](10-final-presentation/10-final-presentation-jakub-dudacek.pdf)
+
+
+
 
 ---
 [Home](https://github.com/dudacek)

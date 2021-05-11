@@ -34,4 +34,4 @@ Marek Hilšer.
 
 In the campaign, I tried to present Marek Hilšer as an attractive candidate. A candidate with comprehensive communication, a profiled election program, and an original language. I managed to meet the challenge in the form of a sophisticated part of the campaign intended for the target group of first-time voters and students. At the same time, I managed to maintain a unified communication containing a large amount of information. Even in cases where he speaks to different constituencies.
 
-![Billboard of Presidential candidate Marek Hilšer saluting citizens, including basic graphic elements. Logotype, slogan, website and emergency call.](./img/marek-hilser-billboard-campaign.jpg)
+![Billboard of Presidential candidate Marek Hilšer saluting citizens, including basic graphic elements. Logotype, slogan, website and emergency call.](./img/visualization-of-outdoor-comunication.jpg)

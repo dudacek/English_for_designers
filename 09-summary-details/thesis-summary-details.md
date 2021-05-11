@@ -4,7 +4,12 @@
 
 # Marketing and visual communication of a presidential campaign for Mark Hilšer
 
-Byline
+<details>
+  <summary>Alt text</summary>
+
+###### Billboard of Presidential candidate Marek Hilšer saluting citizens, including basic graphic elements: logotype, slogan, website and emergency call.
+
+</details>
 
 Date
 

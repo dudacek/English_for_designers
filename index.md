@@ -4,6 +4,9 @@
 - [Experience](03-curriculum-vitae/cv-dudacek.md)
 
 ## Work
+
+Winter Semester
+
 - [Case Study](02-intentional-aboutness/case-study.md)
 - [Character & Description](character_&_description/letter_j_dudacek.md)
 
@@ -15,7 +18,8 @@
 
 - [Semester Takeways](06-semester-takeaways/semester-takeways.md)
 
----
+
+Summer Semester
 
 - [Clarity First](07-clarity-first/thesis-outline.md)
 - [Abstract Draft](08-abstract-draft/abstract-draft.md)

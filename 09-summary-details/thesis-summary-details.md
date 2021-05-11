@@ -1,6 +1,6 @@
 <!-- Add an *optional* hero image to provide visual context. -->
 
-![Write good Alt Text to describe images.](./img/thesis-abstract-hero.png)
+![Billboard of Presidential candidate Marek Hilšer saluting citizens, including basic graphic elements. Logotype, slogan, website and emergency call.](./img/thesis-abstract-hero.png)
 
 # Title
 

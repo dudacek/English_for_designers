@@ -1,10 +1,8 @@
-<!-- Add an *optional* hero image to provide visual context. -->
-
 ![Billboard of Presidential candidate Marek Hilšer saluting citizens, including basic graphic elements. Logotype, slogan, website and emergency call.](./img/marek-hilser-billboard-campaign.jpg)
 
 # Marketing and visual communication of a presidential campaign for Mark Hilšer
 
-<!-- Content goes here… -->
+In my bachelor's thesis, I decided to accept the challenge in the form of a demanding interdisciplinary assignment. The topic of the work was the creation of a concept for marketing and visual communication of the presidential campaign for Marek Hilšer.
 
 ## Abstract Draft
 
